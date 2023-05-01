@@ -1,1 +1,1 @@
-# RDS-MultiAZ-PostgreSQL-CloudFormation-
+# RDS-MultiAZ-PostgreSQL-CloudFormation
